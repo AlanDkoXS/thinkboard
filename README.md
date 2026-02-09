@@ -246,7 +246,7 @@ Special thanks to **[Burak Orkmez](https://github.com/burakorkmez)** for his ins
 ---
 
 **Author:** Alan Quintana
-**Year:** 2025
+**Year:** 2026
 **Version:** 1.0.0
 
 Made with ❤️ using MERN Stack
